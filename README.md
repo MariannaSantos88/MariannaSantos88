@@ -22,8 +22,3 @@ Reach me out 👇🏼
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santos-marianna/)](https://www.linkedin.com/in/santos-marianna/) 
 
-<div style="display: inline_block"><br>
- 
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-</div>
