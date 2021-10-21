@@ -4,9 +4,10 @@ Marianna Santos Here 👩\
 \
 tenho 32 anos e estou em transição de carreira,\
 \
-procurando aprender tecnologias autodidata, meu foco por enquanto é o Back end.\
+procurando aprender tecnologias autodidata, meu foco por enquanto é o Front end.\
 \
-mas especificamente o C# e .Net 💻\
+mas especificamente o JavaScript  💻\
+Aprendendo um pouco sobre R e programação estatística.
 \
 Acabo de me formar em Gestão de Recursos humanos pelo Senac e ingressar em Engenharia de software na Cruzeiro do sul, 👩🏻‍🎓 \
 \
