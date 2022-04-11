@@ -22,4 +22,8 @@ espero poder contribuir na comunidade e aprender também.
 Reach me out 👇🏼
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santos-marianna/)](https://www.linkedin.com/in/santos-marianna/) 
+ \
+ ### 💻 Projetos e Trabalhos
+ \
+ ◼️ <a href="https://mariannasantos88.github.io/projeto-android/"> Projeto História Android.
 
