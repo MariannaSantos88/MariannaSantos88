@@ -26,5 +26,6 @@ Reach me out 👇🏼
  ## 💻 Projetos e Trabalhos
  \
  ◼️ <a href="https://mariannasantos88.github.io/projeto-android/" target="-blank"> Projeto História Android.
+ \
  ◼️ <a href="https://mariannasantos88.github.io/card-dev/" target="-blank"> Cartão de visita.
 
