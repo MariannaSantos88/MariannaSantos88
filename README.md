@@ -28,4 +28,6 @@ Reach me out 👇🏼
  ◼️ <a href="https://mariannasantos88.github.io/projeto-android/" target="-blank"> Projeto História Android.
  \
  ◼️ <a href="https://mariannasantos88.github.io/card-dev/" target="-blank"> Cartão de visita.
+ \
+ ◼️ <a href="https://mariannasantos88.github.io/projeto-cordel/" target="_blank"> Projeto Cordel Moderno.
 
