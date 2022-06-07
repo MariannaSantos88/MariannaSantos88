@@ -30,4 +30,8 @@ Reach me out 👇🏼
  ◼️ <a href="https://mariannasantos88.github.io/card-dev/" target="-blank"> Cartão de visita.
  \
  ◼️ <a href="https://mariannasantos88.github.io/projeto-cordel/" target="_blank"> Projeto Cordel Moderno.
+ \
+ ◼️ <a href="[https://mariannasantos88.github.io/card-dev/](https://mariannasantos88.github.io/verificdor-idade/)" target="-blank"> Verificador de Idade.
+ \
+ ◼️ <a href="(https://mariannasantos88.github.io/projeto-hora-do-dia/)" target="-blank"> Hora do Dia.
 
