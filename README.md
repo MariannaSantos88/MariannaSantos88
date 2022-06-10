@@ -9,7 +9,7 @@ procurando aprender tecnologias autodidata, meu foco por enquanto é o Front end
 mas especificamente o JavaScript  💻\
 
 \
-Acabo de me formar em Gestão de Recursos humanos pelo Senac e ingressar em Engenharia de software na Cruzeiro do sul, 👩🏻‍🎓 \
+Acabo de me formar em Gestão de Recursos humanos pelo Senac e ingressar em Analise e Dsenvolvimento de Sistema pela Anhembi Morumbi, 👩🏻‍🎓 \
 \
 espero poder aprender na comunidade e contribuir também.
 
